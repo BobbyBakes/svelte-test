@@ -1,6 +1,6 @@
 # svelte-test
 
-###### Spike work for testing svelte component
+###### Spike work for testing svelte a component
 
 
 ```
