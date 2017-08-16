@@ -5,7 +5,6 @@ let testElem;
 beforeEach(() => {
     testElem = document.createElement('test');
     document.body.appendChild(testElem);
-    document.head.querySelector = jasmine.createSpy('qsa').and.returnValue({ disabled: false });
 });
 
 function createComponent(data) {
